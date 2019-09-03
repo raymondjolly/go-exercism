@@ -4,8 +4,6 @@ import (
 	"regexp"
 	"strings"
 )
-
-
 //Hey takes in an input and generates the moody responses that Bob should generate base on the following conditions:
 //Bob answers 'Sure.' if you ask him a question.
 //He answers 'Whoa, chill out!' if you yell at him.
